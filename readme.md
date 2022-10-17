@@ -11,9 +11,9 @@ LICENSE: [MIT](./license.md)
 
 1. [Установка GIT](./install.md)
 
-1. [Как работает GIT]()
+1. [Как работает GIT](./howitworks.md)
 
-1. [Команды GIT]()
+1. Команды GIT
    1. [git config](/command/config.md)
    2. [git init](/command/init.md)
    3. [git add](/command/add.md)
