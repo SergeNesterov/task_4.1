@@ -30,4 +30,4 @@
 ```
 git config --global credential.helper cache
 ```
-[Главная страница](/readme.md)
+[Главная страница](/./readme.md)

@@ -22,7 +22,6 @@ LICENSE: [MIT](./license.md)
    6. [git log](/command/log.md)
    7. [git show](/command/show.md)
    8. [git diff](/command/diff.md)
-1. 
 
 ---
 

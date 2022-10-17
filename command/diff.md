@@ -22,4 +22,4 @@ git diff --staged
 git diff somefile.js
 ~~~
 
-[Главная страница](/readme.md)
+[Главная страница](/./readme.md)
